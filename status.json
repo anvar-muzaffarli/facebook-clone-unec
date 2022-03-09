@@ -1,0 +1,17 @@
+[
+    {
+        "p": "Qızıl palçığa düşsə də, parlar. Biz o qızılı dəyərləndirməyi bacarırıq. Dəyərli Ənvər Xalid ilə!",
+        "image": "./assets/status-1.jpg"
+    },
+    
+    {
+        "p": "Kursumuzun dəyərli şəbəkə/helpdesk müəllimi Babək Kərimli Cisco şirkəti tərəfindən CCIE sertifikatına layiq görüldü. Onu təbrik edirik və kariyerasında uğurlar arzulayırıq! Babək müəllim əvəzolunmaz müəllimlərimizdən biridir",
+        "image": "./assets/Babak Karimli-1.jpg"
+    },
+
+    {
+        "p": "Kursumuzun dəyərli qrafik dizayn müəllimi Səlmi Məhəramova magistraturaya qəbul oldu. Onu bu münasibətlə təbrik edirik!",
+        "image": "./assets/Salmi Maharramova.jpg"
+    }
+
+]
